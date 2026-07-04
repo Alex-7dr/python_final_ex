@@ -1,0 +1,18 @@
+# macOS системные файлы
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Spotlight
+.Spotlight-V100
+.Trashes
+
+# Иконки и кеш Finder
+Icon
+._*
+
+# Папки виртуального окружения (очень важно для Python)
+venv/
+.env/
+__pycache__/
+*.pyc
