@@ -40,8 +40,6 @@ def most_frequent_category(purchases):
     return max(totals, key=totals.get)
 
 
-# ====== ОТЧЁТ ======
-
 report = []
 
 report.append(f"Общая выручка: {total_revenue(purchases)}")
