@@ -1,1 +1,2 @@
-# python_final_ex
+Файл кода - ex.py
+результат вывода кода - report.txt
